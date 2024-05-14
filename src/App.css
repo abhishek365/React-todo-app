@@ -1,0 +1,38 @@
+.heading {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.todo-container {
+  text-align: left;
+}
+
+.items-container {
+  text-align: left;
+}
+
+
+.kg-row {
+  margin: 10px 5px;
+}
+
+.kg-button {
+  min-width: 80px;
+}
+
+.food-heading {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+.buyBtn {
+  float: right;
+  margin: 0px 1px
+}
